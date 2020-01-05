@@ -1,12 +1,53 @@
+
+  h1 {
+    width: 35%;
+    margin-left: 0px;
+    float: left;
+  }
+
+  img {
+    float: right;
+    size: 10%;
+  }
+
+  
+.jumbotron {
+    padding-top: 5px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    color: white;
+    border-color: red;
+    border-style: solid;
+    background-color: navy;
+    
+    
+}
+
+.col-sm-6 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+  background-repeat: no-repeat;
+  color: white;
+  border-color: red;
+  border-style: solid;
+ }
+.panel-body {
+  background-color: navy;
+}
 #leftside {
-    background-color: #5c5c5c;
+    background-color: red;
     color: white;
     text-align: center;
-    font-size: 1.3em;
+    font-size: 20px;
   }
   #rightside {
-    background-color: #e49322;
+    background-color: red;
     color: white;
     text-align: center;
-    font-size: 1.3em;
+    font-size: 20px;
   }
+  .panel-body {
+    font-size: 17px;
+  }
+  
