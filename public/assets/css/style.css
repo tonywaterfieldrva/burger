@@ -14,15 +14,19 @@
 .jumbotron {
     padding-top: 5px;
     padding-bottom: 10px;
-    border-radius: 15px;
-    color: white;
+    /* border-radius: 70px; */
+    color: white; 
     border-color: red;
     border-style: solid;
     background-color: navy;
-    
-    
-}
+    border-width: 10px;
+}   
 
+#makeburger {
+    color: red;
+    font-weight: bold;
+
+}
 .col-sm-6 {
   padding-top: 5px;
   padding-bottom: 5px;
